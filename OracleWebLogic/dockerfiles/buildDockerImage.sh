@@ -132,7 +132,7 @@ else
 fi
 
 
-# WebLogic Image Name
+# WebLogic Image Name - TODO change to container-registry.oracle.com
 IMAGE_NAME="oracle/weblogic:$VERSION-$DIST"
 
 # Go into version folder
